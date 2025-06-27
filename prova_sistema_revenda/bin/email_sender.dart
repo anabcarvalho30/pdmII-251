@@ -18,4 +18,5 @@ Future<void> enviarEmail(String conteudoJson) async {
   }
 }
 
+//   mailer: ^6.4.1
 
